@@ -1,4 +1,3 @@
-import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 
 import { Logger } from '../../providers/logger/logger';
@@ -7,6 +6,9 @@ import { Logger } from '../../providers/logger/logger';
 import { ConfigProvider } from '../../providers/config/config';
 import { LanguageProvider } from '../../providers/language/language';
 import { PersistenceProvider } from '../../providers/persistence/persistence';
+
+import * as APP_INFO from '../../assets/appConfig.json';
+import * as EXTERNAL_SERVICES_INFO from '../../assets/externalServices.json';
 
 /* TODO: implement interface properly
 interface App {
@@ -45,11 +47,8 @@ interface App {
 export class AppProvider {
   public info: any = {};
   public servicesInfo;
-  private jsonPathApp: string = 'assets/appConfig.json';
-  private jsonPathServices: string = 'assets/externalServices.json';
 
   constructor(
-    public http: HttpClient,
     private logger: Logger,
     private language: LanguageProvider,
     public config: ConfigProvider,
@@ -59,28 +58,19 @@ export class AppProvider {
   }
 
   public async load() {
-    await Promise.all([this.getInfo(), this.loadProviders()]);
+    this.getInfo();
+    await Promise.all([this.loadProviders()]);
   }
 
-  private async getInfo() {
-    [this.servicesInfo, this.info] = await Promise.all([
-      this.getServicesInfo(),
-      this.getAppInfo()
-    ]);
+  private getInfo() {
+    this.info = APP_INFO;
+    this.servicesInfo = EXTERNAL_SERVICES_INFO;
   }
 
   private async loadProviders() {
     this.persistence.load();
     await this.config.load();
-    this.language.set('es');
+    this.language.set(this.info.defaultLanguage);
     this.language.load();
-  }
-
-  private getAppInfo() {
-    return this.http.get(this.jsonPathApp).toPromise();
-  }
-
-  private getServicesInfo() {
-    return this.http.get(this.jsonPathServices).toPromise();
   }
 }

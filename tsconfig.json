@@ -19,10 +19,13 @@
     "target": "es6",
     "paths": {
       "@providers/*": [
-        "./src/providers/*"
+        "src/providers/*"
       ],
       "@pages/*": [
-        "./src/pages/*"
+        "src/pages/*"
+      ],
+      "@assets/*": [
+        "src/assets/*"
       ]
     }
   },
