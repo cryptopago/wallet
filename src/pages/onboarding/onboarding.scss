@@ -1,15 +1,14 @@
 page-onboarding {
   & > ion-content {
-    background-image: $onboarding-welcome-bg, $onboarding-background-image;
-    background-position: top center;
-    background-size: contain;
-    background-repeat: no-repeat;
+    &.content-md {
+      background-color: $color-primary;
+    }
   }
   .logo-tagline {
     margin-top: calc(5vh + 5vw);
     text-align: center;
     img {
-      max-width: 150px;
+      max-width: 210px;
       margin: 5rem 0;
     }
     p {
@@ -18,9 +17,9 @@ page-onboarding {
     }
   }
   .primary-color {
-    color: $onboarding-primary-color;
+    color: white;
   }
   .comment-color {
-    color: $onboarding-comment-color;
+    color: white;
   }
 }

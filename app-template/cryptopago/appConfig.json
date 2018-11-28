@@ -33,5 +33,6 @@
     "debitcard": false,
     "shapeshift": false,
     "giftcards": false
-  }
+  },
+  "defaultLanguage": "es"
 }

@@ -29,8 +29,8 @@ msgstr "1. Toque en \"Agregar un método de pago\" y seleccione \"Tarjeta de reg
 msgid "2. Enter Gift Code"
 msgstr "2. Introduzca el código de regalo"
 
-msgid "5-star ratings help us get BitPay Wallet into more hands, and more users means more resources can be committed to the app!"
-msgstr "Una calificación de 5 estrellas nos ayuda a que BitPay sea más utilizado, ¡mientras más usuarios más recursos podemos destinar al desarrollo de la aplicación!"
+msgid "5-star ratings help us get Cryptopago Wallet into more hands, and more users means more resources can be committed to the app!"
+msgstr "Una calificación de 5 estrellas nos ayuda a que Cryptopago sea más utilizado, ¡mientras más usuarios más recursos podemos destinar al desarrollo de la aplicación!"
 
 msgid "A new copayer just joined your wallet {{walletName}}."
 msgstr "Un nuevo copayer ha ingresado a su billetera {{walletName}}."
@@ -80,8 +80,8 @@ msgstr "Actividad"
 msgid "Add"
 msgstr "Agregar"
 
-msgid "Add BitPay Account?"
-msgstr "¿Agregar cuenta de BitPay?"
+msgid "Add Cryptopago Account?"
+msgstr "¿Agregar cuenta de Cryptopago?"
 
 msgid "Add Contact"
 msgstr "Agregar Contacto"
@@ -107,8 +107,8 @@ msgstr "Agregar fondos"
 msgid "Add gift cards to your {appName} wallet from brands like Amazon, Delta, Google Play, and Uber."
 msgstr "Agregue tarjetas de regalo a su billetera {appName} de marcas como Amazon, Delta, Google Play y Uber."
 
-msgid "Add this BitPay account ({{email}})?"
-msgstr "¿Agregar esta cuenta BitPay ({{email}})?"
+msgid "Add this Cryptopago account ({{email}})?"
+msgstr "¿Agregar esta cuenta Cryptopago ({{email}})?"
 
 msgid "Address"
 msgstr "Dirección"
@@ -257,8 +257,8 @@ msgstr "Antes de reclamar la dirección de su billetera, se recomienda que prime
 msgid "Below Minimum Amount"
 msgstr "Monto inferior al mínimo"
 
-msgid "BitPay Card URI"
-msgstr "URI de la Tarjeta de BitPay"
+msgid "Cryptopago Card URI"
+msgstr "URI de la Tarjeta de Cryptopago"
 
 msgid "Bitcoin Address"
 msgstr "Dirección Bitcoin"
@@ -323,8 +323,8 @@ msgstr "Comprando Bitcoins..."
 msgid "Buying Gift Card..."
 msgstr "Comprando Tarjeta de Regalo..."
 
-msgid "By providing your email address, you give explicit consent to BitPay to use your email address to send you email notifications about payments."
-msgstr "Al proporcionar su dirección de correo electrónico, usted da consentimiento explícito a BitPay de usar su dirección de correo electrónico para enviarle notificaciones sobre pagos."
+msgid "By providing your email address, you give explicit consent to Cryptopago to use your email address to send you email notifications about payments."
+msgstr "Al proporcionar su dirección de correo electrónico, usted da consentimiento explícito a Cryptopago de usar su dirección de correo electrónico para enviarle notificaciones sobre pagos."
 
 msgid "Calculating fee..."
 msgstr "Calculando comisión..."
@@ -428,8 +428,8 @@ msgstr "Confirmando"
 msgid "Congratulations! It looks like you've recently received money. It's highly advised that you verify your recovery phrase so that your funds can be recovered in case your phone was lost or stolen."
 msgstr "¡Felicidades! Parece que recientemente ha recibido dinero. Es altamente recomendable que verifique su frase de recuperación para que sus fondos puedan ser recuperados en caso de que su teléfono fuera robado o extraviado."
 
-msgid "Connect my BitPay Card"
-msgstr "Conectar mi Tarjeta BitPay"
+msgid "Connect my Cryptopago Card"
+msgstr "Conectar mi Tarjeta Cryptopago"
 
 msgid "Connect to ShapeShift Account"
 msgstr "Conectarse a la cuenta de ShapeShift"
@@ -539,8 +539,8 @@ msgstr "No se pudo eliminar la propuesta de pago"
 msgid "Could not encrypt wallet"
 msgstr "No se pudo encriptar la billetera"
 
-msgid "Could not get claim code. Please contact BitPay support."
-msgstr "No se pudo obtener el código de reclamo. Por favor contáctese con el soporte de BitPay."
+msgid "Could not get claim code. Please contact Cryptopago support."
+msgstr "No se pudo obtener el código de reclamo. Por favor contáctese con el soporte de Cryptopago."
 
 msgid "Could not get dynamic fee"
 msgstr "No se pudo obtener comisión dinámica"
@@ -734,8 +734,8 @@ msgstr "El cifrado puede proteger sus fondos si este dispositivo es robado o com
 msgid "Enter Amount"
 msgstr "Ingrese el Monto"
 
-msgid "Enter Two Factor for your BitPay account"
-msgstr "Ingrese la autenticación de dos pasos para su cuenta de BitPay"
+msgid "Enter Two Factor for your Cryptopago account"
+msgstr "Ingrese la autenticación de dos pasos para su cuenta de Cryptopago"
 
 msgid "Enter a new encrypt password"
 msgstr "Ingrese una nueva contraseña de cifrado"
@@ -803,8 +803,8 @@ msgstr "Error al obtener el valor de la comisión"
 msgid "Error in Payment Protocol"
 msgstr "Error en el Protocolo de Pago"
 
-msgid "Error pairing BitPay Account"
-msgstr "Error de sincronización con la cuenta de BitPay"
+msgid "Error pairing Cryptopago Account"
+msgstr "Error de sincronización con la cuenta de Cryptopago"
 
 msgid "Error scanning funds:"
 msgstr "Error al escanear fondos:"
@@ -872,11 +872,11 @@ msgstr "No se pudo enviar el comentario. Por favor intente nuevamente."
 msgid "Feedback!"
 msgstr "¡Comentarios!"
 
-msgid "Fetching BitPay Account..."
-msgstr "Buscando Cuenta de BitPay..."
+msgid "Fetching Cryptopago Account..."
+msgstr "Buscando Cuenta de Cryptopago..."
 
-msgid "Fetching BitPay Cards..."
-msgstr "Buscando tarjetas BitPay..."
+msgid "Fetching Cryptopago Cards..."
+msgstr "Buscando tarjetas Cryptopago..."
 
 msgid "Fetching payment information..."
 msgstr "Obteniendo información del pago..."
@@ -893,8 +893,8 @@ msgstr "¿Encontró algo mal? Por favor repórtelo como un error. Si necesita ay
 msgid "From"
 msgstr "Desde"
 
-msgid "From BitPay account"
-msgstr "De la cuenta de BitPay"
+msgid "From Cryptopago account"
+msgstr "De la cuenta de Cryptopago"
 
 msgid "From the destination device, go to Add wallet > Import wallet and scan this QR code"
 msgstr "Desde el dispositivo de destino, dirígase a \"Agregar Billetera\" > \"Importar\" y luego escanee este código QR"
@@ -935,8 +935,8 @@ msgstr "Obtener ayuda"
 msgid "Get local cash anywhere you go, from any Visa® compatible ATM. ATM bank fees may apply."
 msgstr "Consiga efectivo local dondequiera que vaya, desde cualquier cajero automático compatible con Visa®. Es posible que el banco aplique una comisión."
 
-msgid "Get news and updates from BitPay"
-msgstr "Recibir noticias y actualizaciones de BitPay"
+msgid "Get news and updates from Cryptopago"
+msgstr "Recibir noticias y actualizaciones de Cryptopago"
 
 msgid "Get started"
 msgstr "Empezar"
@@ -1001,8 +1001,8 @@ msgstr "¿Cuán satisfecho está con la billetera {{appName}}?"
 msgid "I agree to the Terms and certify that I am the beneficial owner of the input assets and the destination address."
 msgstr "Acepto los Términos y certifico que soy el propio beneficiario de los fondos y la dirección de destino."
 
-msgid "I give explicit consent to BitPay to use my email address to send me email notifications about payments (and, if selected, email updates and news about the wallet)."
-msgstr "Doy consentimiento explícito a BitPay para usar mi dirección de correo electrónico para enviarme notificaciones de pagos (y, si está seleccionado, noticias acerca de la billetera)."
+msgid "I give explicit consent to Cryptopago to use my email address to send me email notifications about payments (and, if selected, email updates and news about the wallet)."
+msgstr "Doy consentimiento explícito a Cryptopago para usar mi dirección de correo electrónico para enviarme notificaciones de pagos (y, si está seleccionado, noticias acerca de la billetera)."
 
 msgid "I have read, understood, and agree to the Terms of Use"
 msgstr "He leído, entiendo y acepto los Términos de Uso"
@@ -1043,8 +1043,8 @@ msgstr "Si se habilita, aparecerá una lista de las transacciones recientes de l
 msgid "If enabled, wallets will also try to spend unconfirmed funds."
 msgstr "Si se habilita, los monederos intentarán gastar fondos sin confirmar."
 
-msgid "If this device is replaced or this app is deleted, neither you nor BitPay can recover your funds without a backup."
-msgstr "Si pierdes este dispositivo o esta aplicación es eliminada, ni tú ni BitPay podrán recuperar el dinero."
+msgid "If this device is replaced or this app is deleted, neither you nor Cryptopago can recover your funds without a backup."
+msgstr "Si pierdes este dispositivo o esta aplicación es eliminada, ni tú ni Cryptopago podrán recuperar el dinero."
 
 msgid "If you have funds stored on a website then you should move them into a secure wallet... like this one!"
 msgstr "Si usted tiene fondos almacenados en un sitio web debería moverlos a una billetera segura... ¡como esta!"
@@ -1352,8 +1352,8 @@ msgstr "Fondos insuficientes"
 msgid "Not enough funds for fee"
 msgstr "No hay suficientes fondos para la comisión"
 
-msgid "Not even BitPay can access it."
-msgstr "Ni siquiera BitPay puede acceder a ellos."
+msgid "Not even Cryptopago can access it."
+msgstr "Ni siquiera Cryptopago puede acceder a ellos."
 
 msgid "Not including the private key allows to check the wallet balance, transaction history, and create spend proposals from the export. However, does not allow to approve (sign) proposals, so funds will not be accessible from the export."
 msgstr "No incluir la clave privada permite verificar el saldo de la billetera, historial de transacciones y crear propuestas de pago. Sin embargo, no permite aprobar (firmar) propuestas, por lo tanto, los fondos no serán accesibles al exportar."
@@ -1436,8 +1436,8 @@ msgstr "Abrir configuración"
 msgid "Open website"
 msgstr "Abrir página web"
 
-msgid "Order the BitPay Card"
-msgstr "Solicitar la tarjeta BitPay"
+msgid "Order the Cryptopago Card"
+msgstr "Solicitar la tarjeta Cryptopago"
 
 msgid "Ouch!"
 msgstr "¡Ups!"
@@ -2145,8 +2145,8 @@ msgstr "Para empezar, necesitarás crear una billetera y obtener bitcoins."
 msgid "To get started, you'll need to enter a valid address, contact or wallet."
 msgstr "Para empezar, necesita ingresar una dirección válida, un contacto o una billetera."
 
-msgid "To {{reason}} you must first add your BitPay account - {{email}}"
-msgstr "Para {{reason}} primero debes agregar tu cuenta de BitPay - {{email}}"
+msgid "To {{reason}} you must first add your Cryptopago account - {{email}}"
+msgstr "Para {{reason}} primero debes agregar tu cuenta de Cryptopago - {{email}}"
 
 msgid "Top up in progress..."
 msgstr "Recarda en progreso..."
@@ -2541,14 +2541,14 @@ msgstr "Podría firmar la transacción más tarde en los detalles de la Billeter
 msgid "You should not set a fee higher than {{maxFeeRecommended}} satoshis/byte."
 msgstr "No debería elegir una comisión superior a {{maxFeeRecommended}} satoshis/byte."
 
-msgid "Your BitPay Card is ready. Add funds to your card to start using it at stores and ATMs worldwide."
-msgstr "Tu Tarjeta BitPay ya esta lista. Agrega fondos para comenzar a utilizarla en negocios y cajeros automáticos de todo el mundo."
+msgid "Your Cryptopago Card is ready. Add funds to your card to start using it at stores and ATMs worldwide."
+msgstr "Tu Tarjeta Cryptopago ya esta lista. Agrega fondos para comenzar a utilizarla en negocios y cajeros automáticos de todo el mundo."
 
 msgid "Your bitcoin wallet is ready!"
 msgstr "¡Su billetera bitcoin está lista!"
 
-msgid "Your extended private keys are all that is needed to access your bitcoin funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
-msgstr "Sus claves privadas extendidas es todo lo que necesita para acceder a sus bitcoins. Asegúrese de proteger sus claves privadas y almacenarlas en dispositivos seguros. BitPay no tiene acceso a sus claves privadas, por lo que usted es responsable de sus claves. Si comparte el acceso a claves con servicios externos, usted asume la responsabilidad por el riesgo de robo o violación. Solo los usuarios avanzados deberían manipular directamente las claves privadas extendidas."
+msgid "Your extended private keys are all that is needed to access your bitcoin funds. Be sure to protect your private keys and store them only on secure devices. Cryptopago does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
+msgstr "Sus claves privadas extendidas es todo lo que necesita para acceder a sus bitcoins. Asegúrese de proteger sus claves privadas y almacenarlas en dispositivos seguros. Cryptopago no tiene acceso a sus claves privadas, por lo que usted es responsable de sus claves. Si comparte el acceso a claves con servicios externos, usted asume la responsabilidad por el riesgo de robo o violación. Solo los usuarios avanzados deberían manipular directamente las claves privadas extendidas."
 
 msgid "Your fee is lower than recommended."
 msgstr "Tu comisión es inferior a la recomendada."
@@ -2577,8 +2577,8 @@ msgstr "[Balance Oculto]"
 msgid "[Scanning Funds]"
 msgstr "[Buscando Fondos]"
 
-msgid "add your BitPay Visa card(s)"
-msgstr "agregar sus tarjetas BitPay Visa"
+msgid "add your Cryptopago Visa card(s)"
+msgstr "agregar sus tarjetas Cryptopago Visa"
 
 msgid "me"
 msgstr "yo"
@@ -2592,14 +2592,14 @@ msgstr "preparando..."
 msgid "{appName} BCH wallets use the CashAddr format by default"
 msgstr "Las billeteras {appName} utilizan el formato CashAddr por defecto"
 
-msgid "{coinName} miner fees are high due to record demand for limited space on the {coinName} network. BitPay does not receive and does not control {coinName} miner fees."
-msgstr "Las comisiones {coinName} de los mineros son altas debido a la demanda por el espacio limitado en la red {coinName}. BitPay no recibe ni controla las comisiones de los mineros en la red {coinName}."
+msgid "{coinName} miner fees are high due to record demand for limited space on the {coinName} network. Cryptopago does not receive and does not control {coinName} miner fees."
+msgstr "Las comisiones {coinName} de los mineros son altas debido a la demanda por el espacio limitado en la red {coinName}. Cryptopago no recibe ni controla las comisiones de los mineros en la red {coinName}."
 
 msgid "{coinName} miner fees unusually high"
 msgstr "Comisiones de minero {coinName} inusualmente alta"
 
-msgid "{{appName}} depends on Bitcore Wallet Service (BWS) for blockchain information, networking and Copayer synchronization. The default configuration points to https://bws.bitpay.com (BitPay's public BWS instance)."
-msgstr "{{appName}} depende de Bitcore Wallet Service (BWS) para obtener información sobre blockchain y sincronización del Copayer. La configuración por defecto apunta a https://bws.bitpay.com (instancia BWS pública de BitPay)."
+msgid "{{appName}} depends on Bitcore Wallet Service (BWS) for blockchain information, networking and Copayer synchronization. The default configuration points to https://bws.bitpay.com (Cryptopago's public BWS instance)."
+msgstr "{{appName}} depende de Bitcore Wallet Service (BWS) para obtener información sobre blockchain y sincronización del Copayer. La configuración por defecto apunta a https://bws.bitpay.com (instancia BWS pública de Cryptopago)."
 
 msgid "{{fee}} {{coin}} will be deducted for bitcoin networking fees."
 msgstr "Se descontará {{fee}} {{coin}} por comisión de la red bitcoin."

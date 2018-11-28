@@ -72,6 +72,7 @@ export class AppProvider {
   private async loadProviders() {
     this.persistence.load();
     await this.config.load();
+    this.language.set('es');
     this.language.load();
   }
 

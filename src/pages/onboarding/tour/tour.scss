@@ -1,9 +1,8 @@
 page-tour {
   & > ion-content {
-    background-image: $onboarding-background-image !important;
-    background-position: top center;
-    background-size: contain;
-    background-repeat: no-repeat;
+    &.content-md {
+      background-color: $color-primary;
+    }
   }
   ion-header {
     .toolbar-title,
