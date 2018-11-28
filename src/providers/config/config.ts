@@ -139,8 +139,8 @@ const configDefault: Config = {
       unitToSatoshi: 100000000,
       unitDecimals: 8,
       unitCode: 'btc',
-      alternativeName: 'US Dollar',
-      alternativeIsoCode: 'USD',
+      alternativeName: 'Guatemalan Quetzal',
+      alternativeIsoCode: 'GTQ',
       defaultLanguage: '',
       feeLevel: 'normal'
     }
