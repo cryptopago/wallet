@@ -1,9 +1,6 @@
 page-disclaimer {
   & > ion-content {
-    background-image: $onboarding-background-image !important;
-    background-position: center center;
-    background-size: contain;
-    background-repeat: no-repeat;
+    @include onboardingBg;
   }
   text-align: center;
   ion-header {

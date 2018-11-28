@@ -19,3 +19,9 @@
     );
   }
 }
+
+@mixin onboardingBg {
+  &.content-md {
+    background-color: $color-primary;
+  }
+}

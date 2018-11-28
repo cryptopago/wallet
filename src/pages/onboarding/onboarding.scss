@@ -1,8 +1,6 @@
 page-onboarding {
   & > ion-content {
-    &.content-md {
-      background-color: $color-primary;
-    }
+    @include onboardingBg;
   }
   .logo-tagline {
     margin-top: calc(5vh + 5vw);

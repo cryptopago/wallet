@@ -41,7 +41,7 @@
         </ion-item>
         <a class="externalLink" (click)="openDisclaimer()" translate>Terms of Use</a>
       </div>
-      <button ion-button class="button-standard" [disabled]="!accepted.first || !accepted.second || !accepted.third || !terms.accepted" (click)="confirm()">
+      <button ion-button class="button-standard" color="light" [disabled]="!accepted.first || !accepted.second || !accepted.third || !terms.accepted" (click)="confirm()">
         <span translate>Confirm &amp; Finish</span>
       </button>
     </div>

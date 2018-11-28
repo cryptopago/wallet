@@ -1,9 +1,6 @@
 page-collect-email {
   & > ion-content {
-    background-image: $onboarding-background-image !important;
-    background-position: top center;
-    background-size: contain;
-    background-repeat: no-repeat;
+    @include onboardingBg;
   }
   ion-header {
     .toolbar-title,

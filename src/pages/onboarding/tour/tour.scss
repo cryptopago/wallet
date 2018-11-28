@@ -1,8 +1,6 @@
 page-tour {
   & > ion-content {
-    &.content-md {
-      background-color: $color-primary;
-    }
+    @include onboardingBg;
   }
   ion-header {
     .toolbar-title,

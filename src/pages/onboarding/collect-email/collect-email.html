@@ -20,11 +20,11 @@
         <ion-input type="email" formControlName="email" placeholder="{{'Email' | translate}}"></ion-input>
       </ion-item>
 
-      <ion-item no-lines>
-        <ion-label>{{'Get news and updates from BitPay' | translate}}</ion-label>
+      <!-- <ion-item no-lines>
+        <ion-label>{{'Get news and updates from Cryptopago' | translate}}</ion-label>
         <ion-checkbox formControlName="accept" checked="false"></ion-checkbox>
-      </ion-item>
-      <button ion-button class="button-standard" type="submit" [disabled]="!emailForm.valid">
+      </ion-item> -->
+      <button ion-button class="button-standard" color="light" type="submit" [disabled]="!emailForm.valid">
         {{'Continue' | translate}}
       </button>
     </form>
