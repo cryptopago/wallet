@@ -159,6 +159,7 @@ export class AmountPage extends WalletTabsChild {
   }
 
   async ionViewDidLoad() {
+    this.logger.info('Loaded: AmountPage');
     this.setAvailableUnits();
     this.updateUnitUI();
     this.cardConfig =
@@ -579,9 +580,9 @@ export class AmountPage extends WalletTabsChild {
     this.processAmount();
     this.logger.debug(
       'Update unit coin @amount unit:' +
-        this.unit +
-        ' alternativeUnit:' +
-        this.alternativeUnit
+      this.unit +
+      ' alternativeUnit:' +
+      this.alternativeUnit
     );
   }
 

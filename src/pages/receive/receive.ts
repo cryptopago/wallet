@@ -74,6 +74,7 @@ export class ReceivePage extends WalletTabsChild {
   }
 
   ionViewDidLoad() {
+    this.logger.info('Loaded: ReceivePage');
     this.setAddress();
     this.events.subscribe('Wallet/setAddress', (newAddr?: boolean) => {
       this.setAddress(newAddr);
