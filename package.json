@@ -2,7 +2,7 @@
   "name": "cryptopago",
   "description": "A Secure Bitcoin Wallet",
   "author": "BitPay",
-  "version": "5.2.2",
+  "version": "5.3.0",
   "keywords": [
     "bitcoin",
     "wallet",
@@ -41,7 +41,7 @@
     "clean-all": "git clean -dfx",
     "lint": "ionic-app-scripts lint",
     "ionic:build": "ionic-app-scripts build",
-    "ionic:serve": "ionic-app-scripts serve",
+    "ionic:serve": "ionic-app-scripts serve --nolivereload",
     "watch": "ng test --browsers=Chrome",
     "test": "npm run env:dev && npm run test:lint && npm run test:ci && npm run env:e2e && npm run e2e && npm run env:dev",
     "test:coverage": "ng test --code-coverage",
